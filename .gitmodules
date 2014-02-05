@@ -1,0 +1,12 @@
+[submodule "SMB214-WebSockets_NodeJS"]
+	path = SMB214-WebSockets_NodeJS
+	url = git@github.com:jouj/SMB214-WebSockets_NodeJS.git
+[submodule "Data-storage-Android"]
+	path = Data-storage-Android
+	url = git@github.com:alitaha89/Data-storage-Android.git
+[submodule "SMB214-JQuery"]
+	path = SMB214-JQuery
+	url = git@github.com:HalaHg/SMB214-JQuery.git
+[submodule "smb214-hadoop"]
+	path = smb214-hadoop
+	url = git@github.com:henryko/smb214-hadoop.git
