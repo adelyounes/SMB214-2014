@@ -10,3 +10,15 @@
 [submodule "smb214-hadoop"]
 	path = smb214-hadoop
 	url = git@github.com:henryko/smb214-hadoop.git
+[submodule "googleAppEngine"]
+	path = googleAppEngine
+	url = git@github.com:ziadrouhana13/googleAppEngine.git
+[submodule "jaspersoft"]
+	path = jaspersoft
+	url = git@github.com:wamer/jaspersoft.git
+[submodule "SOAP-webservices"]
+	path = SOAP-webservices
+	url = git@github.com:joellegh/SOAP-webservices.git
+[submodule "Primeface"]
+	path = Primeface
+	url = git@github.com:zeinazgheib/Primeface.git
