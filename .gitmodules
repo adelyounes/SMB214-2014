@@ -22,3 +22,7 @@
 [submodule "Primeface"]
 	path = Primeface
 	url = git@github.com:zeinazgheib/Primeface.git
+	
+[submodule "javafx"]
+	path = javafx
+url = github.com/adelyounes/SMB214-2014/blob/master/.gitmodules
